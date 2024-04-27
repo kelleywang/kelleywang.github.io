@@ -145,3 +145,23 @@ body {
   background-size: 100%, 1em 1em;
   /* makes the diamonds into the checkerboard pattern*/
 }
+#floortextfront {
+  color:#FAF9F6;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  font-size: 30px;
+  transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+  animation-timing-function: ease-in;
+}
+#floortextback {
+  color:#FAF9F6;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  font-size: 30px;
+  transform: translate(-50%,-50%) rotate(180deg);
+  -ms-transform: translate(-50%,-50%);
+  animation-timing-function: ease-in;
+}
