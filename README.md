@@ -2,4 +2,4 @@
 
 
 
-Under construction page. Intially made in pure html/css. Then adapted into React framework.
+Under construction page. Intially made in pure html/css. Then adapted into React + Vite + Typescript framework.
